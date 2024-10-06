@@ -1,0 +1,50 @@
+export const topMeel=[
+    {
+        image:"https://cdn.pixabay.com/photo/2017/12/09/08/18/pizza-3007395_1280.jpg",
+        title:"Pizza"
+    },
+    {
+        image:"https://media.istockphoto.com/id/1041137232/photo/100-gluten-free-low-carb-hamburger-and-bun.webp?b=1&s=612x612&w=0&k=20&c=E_VrRWeGLkLwDFfhJkxLywfUFEvHsk3xC-kGOGfaeUw=",
+        title:"Burger"
+    }, 
+    {
+        image:"https://cdn.pixabay.com/photo/2024/04/06/04/15/ai-generated-8678599_640.jpg",
+        title:"Sandwich"
+    },
+    {
+        image:"https://cdn.pixabay.com/photo/2023/01/09/23/23/fried-rice-7708486_640.jpg",
+        title:"Fried Rice"
+    },
+    {
+        image:"https://cdn.pixabay.com/photo/2016/03/27/22/38/cake-1284548_960_720.jpg",
+        title:"Cake"
+    },
+    {
+        image:"https://cdn.pixabay.com/photo/2022/06/14/18/58/biryani-with-kebab-7262655_640.jpg",
+        title:"Biryani"
+    },
+    {
+        image:"https://cdn.pixabay.com/photo/2012/07/09/07/16/thali-51996_640.jpg",
+        title:"Thali"
+    },
+    {
+        image:"https://cdn.pixabay.com/photo/2021/02/28/09/38/food-6056720_640.jpg",
+        title:"North Indian Food"
+    },
+    {
+        image:"https://cdn.pixabay.com/photo/2015/08/27/05/11/western-909522_640.jpg",
+        title:"Rolls"
+    },
+    {
+        image:"https://media.istockphoto.com/id/1286704566/photo/image-of-turquoise-blue-cooking-pan-filled-with-butter-chicken-tikka-curry-large-chunks-of.jpg?s=1024x1024&w=is&k=20&c=OyVFYW439vACOYLB8fvLYoTBReqOGXEBeGpki4baQn0=",
+        title:"Chiken"
+    },
+    {
+        image:"https://cdn.pixabay.com/photo/2023/05/27/12/35/noodles-8021415_640.png",
+        title:"Noodles"
+    },
+    {
+        image:"https://cdn.pixabay.com/photo/2022/05/17/05/03/vegetable-gravy-7201669_640.jpg",
+        title:"Dosa"
+    }
+]
